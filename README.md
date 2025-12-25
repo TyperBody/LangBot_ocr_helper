@@ -1,0 +1,1 @@
+# LangBot_ocr_helper
