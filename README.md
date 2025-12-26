@@ -2,7 +2,7 @@
 
 This is a LangBot OCR assistant plugin.
 
-[![Development Group Chat](https://img.shields.io/badge/Development Group Chat-472263434-blue)](https://qm.qq.com/cgi-bin/qm/qr?k=472263434) ![LangBot](https://img.shields.io/badge/LangBot-4.3+-blue) ![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Development Group Chat QQ](https://img.shields.io/badge/开发群聊-472263434-blue) ![LangBot](https://img.shields.io/badge/LangBot-4.3+-blue) ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 
 Functionality
 
