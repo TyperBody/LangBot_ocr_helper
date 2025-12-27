@@ -11,6 +11,7 @@ This workspace contains an OCR assistant plugin capable of:
 - Automatically detecting images in messages
 - Using the EasyOCR library to recognize text in images
 - Returning the recognition results to the user
+  
 
 Development Notes
 
